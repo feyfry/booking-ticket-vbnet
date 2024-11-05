@@ -1,0 +1,27 @@
+# Folder Bin dan Obj
+UasProject/UasProject/bin/
+UasProject/UasProject/obj/
+UasProject/.vs/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+~$*
+
+# Output dan Log
+*.log
+
+# File kompilasi
+*.exe
+*.dll
+*.pdb
+*.vshost.exe
+*.vshost.exe.manifest
